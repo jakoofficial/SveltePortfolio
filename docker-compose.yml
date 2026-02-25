@@ -1,7 +1,7 @@
 version: "3.9"
 
 services:
-  ${APP_NAME}:
+  sveltekit-app:
     build: .
     container_name: ${APP_NAME}
     ports:
