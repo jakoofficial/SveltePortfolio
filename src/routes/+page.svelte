@@ -1,5 +1,11 @@
+<script>
+    import Whom from "$lib/components/whom.svelte";
+</script>
 <section>
 	<h1>Welcome to portfolio</h1>
+    <div>
+        <Whom></Whom>
+    </div>
 </section>
 <footer>
 	<p>BoldByte &copy2026</p>
