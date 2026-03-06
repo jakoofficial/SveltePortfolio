@@ -16,5 +16,6 @@
         border-top: 1px solid #00000050;
     }
     footer p {
+        padding-top: 10px;
     }
 </style>
